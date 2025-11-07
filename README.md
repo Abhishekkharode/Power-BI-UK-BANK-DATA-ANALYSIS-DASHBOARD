@@ -1,4 +1,5 @@
-# Power-BI-UK BANK DATA ANALYSIS DASHBOARD 
+<img width="1919" height="1023" alt="Screenshot 2025-11-07 132242" src="https://github.com/user-attachments/assets/d7912b0d-a94c-42fc-a553-c48091525b60" />
+#Power-BI-UK BANK DATA ANALYSIS DASHBOARD 
 
 Project Description:-
 
@@ -108,3 +109,6 @@ Create a new branch
 
 Commit changes
 Submit a Pull Request
+
+AFTER DOING ALL THE OPERATIONS THE FINAL REPORT LOOKLIKE THIS:-
+<img width="1919" height="1019" alt="Screenshot 2025-11-07 132541" src="https://github.com/user-attachments/assets/d7a4b959-3a07-4040-95ad-79190d4bc231" />
